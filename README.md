@@ -1,1 +1,1 @@
-java_simpleChatBot
+Ein Chat Bot aus einem Hyperskill Projekt. 
